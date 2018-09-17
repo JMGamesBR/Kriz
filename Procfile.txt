@@ -1,0 +1,6 @@
+"web":"worker":
+"urgentworker":"clock":
+"rake jobs":"work"
+bundle exec rails server -p $PORT
+web: java -jar target/myapp-1.0.0.jar
+web: lein run -m demo.web $PORT

@@ -1,0 +1,13 @@
+{
+  "name": "Kriz".
+  "description": "Bot from moderation in Discord.".
+  "version": "0.0.0".
+  "main": Kriz.js".
+  "scripts": {
+  "start": "mode Kriz.js"
+  }.
+  "dependencies": {
+  "discord.js": "11.1.0".
+  "request": "2.01.0"
+   }
+}
